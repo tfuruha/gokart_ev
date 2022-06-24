@@ -1,0 +1,40 @@
+{
+
+	"name": "Go Kart e1",
+	"brand": "EV Kart",
+	"description": " </br></br>
+	Everyone knows what Kart is. This mod is inspired by Gran Turismo Kart Junior, 100, 125 and Shifter. </br></br>
+	Thanks to mclarenf1papa who started project and thanks to bobskype and Lunae who made lots of progress regarding physics. Also thanks to SimonTek for first set of skins. </br>
+	Credits for most of physics go to them. </br></br>
+	
+	...now, let's have fun :)</br>",
+	"tags": ["rwd", "kart", "race", "petrol"],  
+	"class": "race",
+
+	"specs":
+	{
+		"bhp": "13bhp",
+		"torque": "11NM",
+		"weight": "70kg*",
+		"topspeed": "~105km/h",
+		"acceleration": "-",
+		"pwratio": "-"
+	},
+		"torqueCurve": [
+		 ["0","0"],
+		 ["400","2.8"],
+		 ["850","2.80"],
+		 ["900","2.65"],
+		 ["2000","1.19"],
+		 ["5000","0.48"]
+		],
+        "powerCurve": [
+		 ["0","0"],
+		 ["1000","1"],
+		 ["8000","11"],
+		 ["12000","13"],
+		 ["13200","7"],
+		 ["14000","0"]
+		]
+
+}
