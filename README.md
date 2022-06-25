@@ -2,7 +2,7 @@
  assetto corsa Kart mod as like ene1   
  This is based in the [GoKart 0.5c](https://www.racedepartment.com/downloads/gokart.16419/)  
  ***
- Major specification items  
+ Major physics specifications  
  **car**  
  TOTALMASS 80 ;kg  
  **tyre**  
