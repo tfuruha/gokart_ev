@@ -21,5 +21,5 @@
  POWER 250 ;W  
  ***
  Testing with...  
- [Assetto Corsa](https://store.steampowered.com/app/244210/Assetto_Corsa/) on STEAM  
- [Laser scanned Suzuka converted from ACC by the Reboot Team.](https://acmods.net/tracks/suzuka/)
+ Platform: [Assetto Corsa](https://store.steampowered.com/app/244210/Assetto_Corsa/) on STEAM  
+ Track: [Suzuka International Circuit](https://acmods.net/tracks/suzuka/) converted from ACC by the Reboot Team.
