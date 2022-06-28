@@ -17,7 +17,7 @@
  Area 0.8748 m^2  
  CD 0.0202  
  CL 0  
- **emgine**  
+ **engine**  
  POWER 250 ;W  
  ***
  Testing with...  
