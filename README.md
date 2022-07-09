@@ -1,6 +1,7 @@
 # gokart_ev
  assetto corsa Kart mod as like ene1   
  This is based in the [GoKart 0.5c](https://www.racedepartment.com/downloads/gokart.16419/)  
+ Thet mod file is "gokart.zip" in [Releases](https://github.com/tfuruha/gokart_ev/releases).
  ***
  Major physics specifications  
  **car**  
